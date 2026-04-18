@@ -50,6 +50,7 @@ jobs:
         run: |
           version="${{ steps.version.outputs.version }}"
           mv "机械动力航空学整合包 ${version}.zip" "机械动力航空学整合包 ${version}.mrpack"
+          cp "modpack/overrides/resourcepacks/航空学汉化包.zip" "机械动力航空学汉化包.zip"
 
       - name: Upload assembled .mrpack artifact
         uses: actions/upload-artifact@v4
@@ -57,4 +58,4 @@ jobs:
           name: 机械动力航空学整合包-${{ steps.version.outputs.version }}
           path: |
             机械动力航空学整合包 ${{ steps.version.outputs.version }}.mrpack
-            modpack/overrides/resourcepacks/航空学汉化包.zip
+            机械动力航空学汉化包.zip

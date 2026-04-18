@@ -1,6 +1,7 @@
 name: Build Modpack Package
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'modpack/**'
@@ -9,7 +10,6 @@ on:
     paths:
       - 'modpack/**'
       - 'translate/**'
-  workflow_dispatch: {}
 
 jobs:
   package:
@@ -57,3 +57,4 @@ jobs:
           name: 机械动力航空学整合包-${{ steps.version.outputs.version }}
           path: |
             机械动力航空学整合包 ${{ steps.version.outputs.version }}.mrpack
+            modpack/overrides/resourcepacks/航空学汉化包.zip

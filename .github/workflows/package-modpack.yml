@@ -39,6 +39,8 @@ jobs:
           cd translate
           mkdir -p ../modpack/overrides/resourcepacks
           zip -r ../modpack/overrides/resourcepacks/航空学汉化包.zip .
+          cd ../ftb-quests
+          zip -r ../modpack/overrides/resourcepacks/整合包任务需求资源包.zip .
 
       - name: Package modpack into .zip
         run: |

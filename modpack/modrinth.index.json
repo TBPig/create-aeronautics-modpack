@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.3.0",
+  "versionId": "1.4.0",
   "name": "机械动力航空学整合包",
   "summary": "机械动力航空学整合包-内置汉化",
   "files": [
@@ -302,6 +302,19 @@
       "fileSize": 1118651
     },
     {
+      "path": "mods/[A][地形修改] tectonic-3.0.22-neoforge-21.1.jar",
+      "hashes": {
+        "sha1": "12b0f4af2a2eaae3d9e9cb1a8a3fd1ca7e610314",
+        "sha512": "a02d3f2bfd8aa099512005df23b45ec723694c397b4224a69ffd47b41cd06bb3d56a0f10bbfd81e8159e0fc55f61d0729656f91231410a74ed55e6fc16fd18ec"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/7903/156/tectonic-3.0.22-neoforge-21.1.jar",
+        "https://edge.forgecdn.net/files/7903/156/tectonic-3.0.22-neoforge-21.1.jar",
+        "https://cdn.modrinth.com/data/lWDHr9jE/versions/iCGkqnnx/tectonic-3.0.22-neoforge-21.1.jar"
+      ],
+      "fileSize": 337253
+    },
+    {
       "path": "mods/[A][多态合成] polymorph-neoforge-1.1.0+1.21.1.jar",
       "hashes": {
         "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07",
@@ -341,16 +354,17 @@
       "fileSize": 17179
     },
     {
-      "path": "mods/[A][摆放乐事] displaydelight-1.5.0.jar",
+      "path": "mods/[A][摆放乐事] displaydelight-1.5.2.jar",
       "hashes": {
-        "sha1": "d6ddb79ce65aebef6dc54144c097b98b3cdc5034",
-        "sha512": "5f05b0cc19f7ebca07fe7c0f8ca430467f7d5fff2aaf551c054edfaa8d030ea3deca1b5efbaebb43ae969913a12e0ee8a7f9e0e79d89110effa46234f6e7c0b5"
+        "sha1": "bdae3416c296b4953518d3b06180277bc7c5994a",
+        "sha512": "35244906b6c09b9c237c7f753cd88b4e4b988e1c37022a6db8873e8a6d8b6a2d725c820c89ed9f13c80f3e4dd4533bf79a4e9d667567686854d9aecc0f60f5ae"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7783/218/displaydelight-1.5.0.jar",
-        "https://edge.forgecdn.net/files/7783/218/displaydelight-1.5.0.jar"
+        "https://mediafilez.forgecdn.net/files/7948/38/displaydelight-1.5.2.jar",
+        "https://edge.forgecdn.net/files/7948/38/displaydelight-1.5.2.jar",
+        "https://cdn.modrinth.com/data/yXepZhp8/versions/pU6Dxie9/displaydelight-1.5.2.jar"
       ],
-      "fileSize": 1035783
+      "fileSize": 1044065
     },
     {
       "path": "mods/[A][救救我的答辩网络] smsn-neoforge-1.4.0-1.21.1.jar",
@@ -376,6 +390,19 @@
         "https://cdn.modrinth.com/data/LNytGWDc/versions/n7NADxiG/create-1.21.1-6.0.9.jar"
       ],
       "fileSize": 19019888
+    },
+    {
+      "path": "mods/[A][机械动力：Bits 'n' Bobs] bits_n_bobs-0.0.44.jar",
+      "hashes": {
+        "sha1": "2d577eb7e47b860fc32e4ebd33405715252c5072",
+        "sha512": "147a2d2067918e8e3a70565c7f9a3a08c7040aedf767d31bc646343d2ef3701e3eab1bb4681a4adde1e8c7f8068daeb3170db575edfbc129fa09718d7ac7bc98"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/7591/460/bits_n_bobs-0.0.44.jar",
+        "https://edge.forgecdn.net/files/7591/460/bits_n_bobs-0.0.44.jar",
+        "https://cdn.modrinth.com/data/T8bvmqVZ/versions/XKDQlGJW/bits_n_bobs-0.0.44.jar"
+      ],
+      "fileSize": 1613264
     },
     {
       "path": "mods/[A][机械动力：FTB连锁] createultimine-1.21.1-neoforge-1.3.0.jar",
@@ -454,6 +481,19 @@
         "https://cdn.modrinth.com/data/j4ARnQwY/versions/rUu97B0K/create_bb-1.0.7-1.21.1-Neoforge.jar"
       ],
       "fileSize": 2613213
+    },
+    {
+      "path": "mods/[A][机械动力：创想附加] createaddition-1.5.10.jar",
+      "hashes": {
+        "sha1": "2bd194da923dd38239ef49df30ecf1a720d38997",
+        "sha512": "22522c86d5ca798c9ee9f3c20f18f540be125fa1c76d736d1c2e876a31469b5ee61eef27829e7b69f16940675186519448f6b4978635b6010db1422da8edca0d"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/7518/252/createaddition-1.5.10.jar",
+        "https://edge.forgecdn.net/files/7518/252/createaddition-1.5.10.jar",
+        "https://cdn.modrinth.com/data/kU1G12Nn/versions/CP8Lhuwu/createaddition-1.5.10.jar"
+      ],
+      "fileSize": 1595173
     },
     {
       "path": "mods/[A][机械动力：创意传动] create_connected-1.1.13-mc1.21.1.jar",
@@ -739,17 +779,28 @@
       "fileSize": 401219
     },
     {
-      "path": "mods/[A][机械动力：赛博护目镜] CreateCyberGoggles-1.21.1-7.4.1-NeoForge.jar",
+      "path": "mods/[A][机械动力：赛博护目镜] CreateCyberGoggles-1.21.1-7.5.0-NeoForge.jar",
       "hashes": {
-        "sha1": "fa7244b3b7ba00563e415abe66a86633ecccc4be",
-        "sha512": "d09c9133928bd02528f41345e03c162b024d79e57b016da7d2cb4a1a579a98fe0534d1216dd3ca3563c1ca9146c6fdf299ed27c16ddb2c8eea93e24f18c9cc82"
+        "sha1": "b164165d37989b3f7387cf4844e657abb5753054",
+        "sha512": "3c6a6bc0ff2cf5a1770d310c46d3156f30dc316f7f4ea8f617295f8d8adc308ab189899b4f25db9b93489f2b1cef5e0260e4e80953a2ec0c6d3bdc2c3160943c"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7943/73/CreateCyberGoggles-1.21.1-7.4.1-NeoForge.jar",
-        "https://edge.forgecdn.net/files/7943/73/CreateCyberGoggles-1.21.1-7.4.1-NeoForge.jar",
-        "https://cdn.modrinth.com/data/TlQAWQCY/versions/vPIAxnM0/CreateCyberGoggles-1.21.1-7.4.1-NeoForge.jar"
+        "https://cdn.modrinth.com/data/TlQAWQCY/versions/DlD6mrss/CreateCyberGoggles-1.21.1-7.5.0-NeoForge.jar"
       ],
-      "fileSize": 437691
+      "fileSize": 439058
+    },
+    {
+      "path": "mods/[A][机械动力：超级管道] create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
+      "hashes": {
+        "sha1": "adbd8f617928af37b286cadf7b45707e2498f25a",
+        "sha512": "6f0d365b6cd55ffd4694c8f46c485428385995e5ddc709c89ac59adc838b57b4234506291beba6d346ce224f0dc5345ea5c546aed6d7dcd723ca1a1f5dd695ff"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/7948/263/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
+        "https://edge.forgecdn.net/files/7948/263/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
+        "https://cdn.modrinth.com/data/ATDdrG1y/versions/SdEofplJ/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar"
+      ],
+      "fileSize": 423111
     },
     {
       "path": "mods/[A][机械动力：附魔工业] create-enchantment-industry-2.3.0.jar",
@@ -791,17 +842,30 @@
       "fileSize": 128144
     },
     {
-      "path": "mods/[A][机械动力：龙+] CreateDragonsPlus-1.8.8.jar",
+      "path": "mods/[A][机械动力：齿轮与麦穗] create_ratatouille-1.21.1-1.3.9.jar",
       "hashes": {
-        "sha1": "255366b21ce81859a574a6f2f2ae514022d96780",
-        "sha512": "d25e51c01b668e4e3b2188ad8b3b1a0adc2340dcdc53eea004c9c55ff4927ed73a06b9ec90dcb758b97ec8afb6945b6e3af8a5656afeeb236355bd8fb41bf212"
+        "sha1": "e2c01836fa8ae79529cb43687956cc6e67ee1712",
+        "sha512": "a256e83a1e6dd7aeb507abd53f5df236e1c9a9ff69f045074bd29d916337d354fb80ee9c7fcd0305d765d4afacb3d625a738bafb896ac3490251431628aa92fe"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7948/992/CreateDragonsPlus-1.8.8.jar",
-        "https://edge.forgecdn.net/files/7948/992/CreateDragonsPlus-1.8.8.jar",
-        "https://cdn.modrinth.com/data/dzb1a5WV/versions/hizq1Gct/CreateDragonsPlus-1.8.8.jar"
+        "https://mediafilez.forgecdn.net/files/7954/120/create_ratatouille-1.21.1-1.3.9.jar",
+        "https://edge.forgecdn.net/files/7954/120/create_ratatouille-1.21.1-1.3.9.jar",
+        "https://cdn.modrinth.com/data/XM0ifg8q/versions/4jrYqs37/create_ratatouille-1.21.1-1.3.9.jar"
       ],
-      "fileSize": 649807
+      "fileSize": 917002
+    },
+    {
+      "path": "mods/[A][机械动力：龙+] CreateDragonsPlus-1.9.0.jar",
+      "hashes": {
+        "sha1": "e2bb9769d9f0b525330e901589d12430f1ce1e46",
+        "sha512": "882edfa4b9791e4626eee9ea5931cc5f232bd44cc76687eb3340d801ead679e9a4e167308ab5af85bcdf9e7dfbfc07795582c2ae7d9535fd6db6767a5936c311"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/7954/455/CreateDragonsPlus-1.9.0.jar",
+        "https://edge.forgecdn.net/files/7954/455/CreateDragonsPlus-1.9.0.jar",
+        "https://cdn.modrinth.com/data/dzb1a5WV/versions/vssuT1YD/CreateDragonsPlus-1.9.0.jar"
+      ],
+      "fileSize": 684905
     },
     {
       "path": "mods/[A][森罗物语：下界] kaleidoscope_nether-1.0.7-neoforge+mc1.21.1.jar",
@@ -1198,18 +1262,20 @@
       "fileSize": 302750
     },
     {
-      "path": "mods/[C][物品栏排序-八角] anisum-neoforge-1.21.1-0.0.1+build.16.jar",
+      "path": "mods/[C][物品栏排序-八角] anisum-neoforge-1.21.1-0.0.1+build.17.jar",
       "hashes": {
-        "sha1": "1d94950ff30da5631a803998e61486a6e7066d9e",
-        "sha512": "e4a8fa82a7e5dbf2ea7d951f889e9de81a2312148729ca36d2491d372127ffbcff13cb57e091fabce28342ec441007f32d18393df9e52da74ff81775208a0d24"
+        "sha1": "926792323a4193edda7abc74a664cea1a8a19040",
+        "sha512": "bc1ef1ffae0de414650cc6d1e3564deebf348e45355b8ebc004fe0dbdc5ec3a93421701e441bc866c8ff7ee8c1b6e52520f665e071d5921a0ce864db97fc5d8d"
       },
       "env": {
         "client": "optional"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/KikOIfnh/versions/46CKVZD8/anisum-neoforge-1.21.1-0.0.1%2Bbuild.16.jar"
+        "https://mediafilez.forgecdn.net/files/7954/855/anisum-neoforge-1.21.1-0.0.1%2bbuild.17.jar",
+        "https://edge.forgecdn.net/files/7954/855/anisum-neoforge-1.21.1-0.0.1%2bbuild.17.jar",
+        "https://cdn.modrinth.com/data/KikOIfnh/versions/f3ih0y9s/anisum-neoforge-1.21.1-0.0.1%2Bbuild.17.jar"
       ],
-      "fileSize": 107432
+      "fileSize": 108898
     },
     {
       "path": "mods/[C][物品模型修复] modelfix-1.21-1.10.jar",
@@ -1614,7 +1680,7 @@
       "fileSize": 3737845
     },
     {
-      "path": "mods/[A][农夫乐事 · 妖怪们的归家] youkaishomecoming-3.0.8.jar",
+      "path": "mods/[A][农夫乐事 · 妖怪们的归家] youkaishomecoming-3.0.8.jar.disabled",
       "hashes": {
         "sha1": "e25288594f06e43fead8002839fb561efee6565e",
         "sha512": "80bf4859a5c1d0b9f9f88efb6db0b261c8b6fd47a84185c3d3457a7c1d45a74686354810a4ef6aefadd22666dc4a8ffe629ae34812f98b051554dc2fe098cf95"
@@ -1693,59 +1759,59 @@
       "fileSize": 3328498
     },
     {
-      "path": "mods/[A][森罗物语：兼容] kaleidoscope_compat-2.4.4-neoforge+mc1.21.1.jar",
+      "path": "mods/[A][森罗物语：兼容] kaleidoscope_compat-2.4.5-neoforge+mc1.21.1.jar",
       "hashes": {
-        "sha1": "a4d1a7b1fbc932c9754c20a75e96e818d4212bc8",
-        "sha512": "a56e46fc791c704d0332de7b6793595cf56de0ed19027cabd1dc81ddd8990d11b49a0394c0d1ff52768293fa5bd633ae0d13f9588684db6d12139a293c07f0f9"
+        "sha1": "16c9fb998ac65b6594331c3817f0de58b600d948",
+        "sha512": "5db5109eeb300e6c74ac2a9de7a19c0240e179b2518ab24b114a2b9a23a56150e39049e1bee4a9550b7ce7b8e47b6d0822fe4d4e92c213dbddd24945e336737d"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Xm1eP54z/versions/Je1K88tm/kaleidoscope_compat-2.4.4-neoforge%2Bmc1.21.1.jar"
+        "https://cdn.modrinth.com/data/Xm1eP54z/versions/LAKQIpp9/kaleidoscope_compat-2.4.5-neoforge%2Bmc1.21.1.jar"
       ],
-      "fileSize": 857837
+      "fileSize": 860443
     },
     {
-      "path": "mods/[A][精妙存储] sophisticatedstorage-1.21.1-1.5.37.1622.jar",
+      "path": "mods/[A][精妙存储] sophisticatedstorage-1.21.1-1.5.38.1637.jar",
       "hashes": {
-        "sha1": "d236fe0aac018a252dcd53139f31f9a4632e067b",
-        "sha512": "d4d9a428d9917aed51a63c3b0ab17aec8f901670668e801165b733331dcdeb78a8496a0d3b4566f523289ce3602bd943dfb64bc8a29c34ab5cba3f8439cd3739"
+        "sha1": "9c27326ee2b6b2b75acf6239941cea39fd7ebf74",
+        "sha512": "b0e71152a0b822b4e63c9a8deaef27e53b3c39bb237b6f3c06339f0bf3ad40e3a7368f4d50782eefad76a53e33c27c17ebdf7f65d70ad4d0e2ba4b96547cfe01"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/hMlaZH8f/versions/1R8DEbS9/sophisticatedstorage-1.21.1-1.5.37.1622.jar"
+        "https://cdn.modrinth.com/data/hMlaZH8f/versions/h150uPq6/sophisticatedstorage-1.21.1-1.5.38.1637.jar"
       ],
-      "fileSize": 1664233
+      "fileSize": 1667034
     },
     {
-      "path": "mods/[A][精妙核心] sophisticatedcore-1.21.1-1.4.24.1680.jar",
+      "path": "mods/[A][精妙核心] sophisticatedcore-1.21.1-1.4.25.1696.jar",
       "hashes": {
-        "sha1": "b551e243f683b66903a93ab3115d09eeea25679e",
-        "sha512": "579c8889cdac1eb4fd9a9c5469f7d2a01d3ca6f7d4fad2147a683ea556624eaaf7cc1bbcf464787fc994125b69b1697d6602fa5c8ed7f3083f12da86a5323148"
+        "sha1": "203820f2f99a87c2406860d6f9b518374130b1a4",
+        "sha512": "7124fcdbcd7ad299244da3b77ce6ed6a5b241bef325e829774a11cacdf8f5474d4a21957d33d58203f1acdf9327883cfc142c9e819c70d609a9d8e5582b9257a"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/nmoqTijg/versions/T4AMspJ8/sophisticatedcore-1.21.1-1.4.24.1680.jar"
+        "https://cdn.modrinth.com/data/nmoqTijg/versions/BcVccGu5/sophisticatedcore-1.21.1-1.4.25.1696.jar"
       ],
-      "fileSize": 1479558
+      "fileSize": 1480937
     },
     {
-      "path": "mods/[A][精妙物品操作] sophisticateditemactions-1.21.1-0.3.10.178.jar",
+      "path": "mods/[A][精妙物品操作] sophisticateditemactions-1.21.1-0.3.11.194.jar",
       "hashes": {
-        "sha1": "f48da31e530e2b76d3187b69c2629a62144a4efa",
-        "sha512": "112bf578bff3168a4b42e4851d1545294f2b35d9b0dcca6c4dee0fc264a731d3f3c15cdd4eada86dad170fff16ad3eeb6ed505ae27156aa9a362fd1c4e7abbb6"
+        "sha1": "58c8da22dec2873880b1fa9cb7abeda6148a84b7",
+        "sha512": "b1a1ab1fc69ac7bb8a3cdf902d75d3491695e6a79fed43ca348d63e8ffa31604765c7ff355fda943976e56597634947a030e5ce027288b76c47d6cf17624f234"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/RMW7bKVL/versions/uoFDo9kc/sophisticateditemactions-1.21.1-0.3.10.178.jar"
+        "https://cdn.modrinth.com/data/RMW7bKVL/versions/Bfy55xNz/sophisticateditemactions-1.21.1-0.3.11.194.jar"
       ],
-      "fileSize": 257449
+      "fileSize": 272658
     },
     {
-      "path": "mods/[A][精妙背包] sophisticatedbackpacks-1.21.1-3.25.40.1677.jar",
+      "path": "mods/[A][精妙背包] sophisticatedbackpacks-1.21.1-3.25.41.1683.jar",
       "hashes": {
-        "sha1": "5b7bf1f595e5c0b4f56c3502f49a85b3ce6f7484",
-        "sha512": "208e3699e3e816327e0f107a00b8b90082f6db014e1372e8eddf33d83155427c03869bf3ee978ab26d9a74320241545170887de70a9e4d785f394be368bb8ecf"
+        "sha1": "349e00db69668f50dca80e71ee5ec5f79dbacb99",
+        "sha512": "5c9eebb9f8446c4574ac9f97b1983da2f09d85d35edf66183fc4c135f05c86ea657981957ad9c9e1db307091415d6c905bac8c21d59737c53adf6a2250874cac"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/TyCTlI4b/versions/4tpk5wp9/sophisticatedbackpacks-1.21.1-3.25.40.1677.jar"
+        "https://cdn.modrinth.com/data/TyCTlI4b/versions/TiDxy94j/sophisticatedbackpacks-1.21.1-3.25.41.1683.jar"
       ],
-      "fileSize": 1020674
+      "fileSize": 1023170
     },
     {
       "path": "mods/[A][遗体] corpse-neoforge-1.21.1-1.1.13.jar",

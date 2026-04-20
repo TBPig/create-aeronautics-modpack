@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.2.0",
+  "versionId": "1.3.0",
   "name": "机械动力航空学整合包",
   "summary": "机械动力航空学整合包-内置汉化",
   "files": [
@@ -199,6 +199,9 @@
       "hashes": {
         "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
         "sha512": "e039492df0b486e7ce76d0eaf8cb11eadad2e78220600b8498ab8eef4642a29e310a6bcb4378257553b3639c6d0bc1ebf0f73df3a7a677c6af6baf86716b0bc7"
+      },
+      "env": {
+        "client": "optional"
       },
       "downloads": [
         "https://mediafilez.forgecdn.net/files/5830/452/worldedit-mod-7.3.8.jar",
@@ -542,17 +545,17 @@
       "fileSize": 62440
     },
     {
-      "path": "mods/[A][机械动力：更好的FPS] createbetterfps-1.21.1-1.1.3.jar",
+      "path": "mods/[A][机械动力：更好的FPS] createbetterfps-1.21.1-1.1.4.jar",
       "hashes": {
-        "sha1": "cd8152d80a36e872690da101a8262877e854ceee",
-        "sha512": "fa823eaa1a274c492045d625a0470dd0cbfb7b8b14c3fa9a80a02ee023550f01e7818daf417fa6d3e8e021469df6a90cee98269df3e516c9d2cb27f06f93170b"
+        "sha1": "c594e20659b73a67bd0b0c2de45b29b78a2eb160",
+        "sha512": "777cf4c533eba723baea1ef1fffcd2d47c8f4f8238ddc360973b41ae4946f7e733a24542a3691c4a1be2f41e55b07675f9ccfa633be186e72d11911ca67fa412"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7069/47/createbetterfps-1.21.1-1.1.3.jar",
-        "https://edge.forgecdn.net/files/7069/47/createbetterfps-1.21.1-1.1.3.jar",
-        "https://cdn.modrinth.com/data/lMYIHZNH/versions/fXfWOQ16/createbetterfps-1.21.1-1.1.3.jar"
+        "https://mediafilez.forgecdn.net/files/7951/368/createbetterfps-1.21.1-1.1.4.jar",
+        "https://edge.forgecdn.net/files/7951/368/createbetterfps-1.21.1-1.1.4.jar",
+        "https://cdn.modrinth.com/data/lMYIHZNH/versions/QWqEdWHy/createbetterfps-1.21.1-1.1.4.jar"
       ],
-      "fileSize": 26171
+      "fileSize": 26547
     },
     {
       "path": "mods/[A][机械动力：柴油动力] createdieselgenerators-1.21.1-1.3.11.jar",
@@ -594,17 +597,17 @@
       "fileSize": 11904503
     },
     {
-      "path": "mods/[A][机械动力：油物] createbicbit-forge-1.21.1-1.0.2B.jar",
+      "path": "mods/[A][机械动力：油物] create_bic_bit-1.0.2C.jar",
       "hashes": {
-        "sha1": "e9118da99498a4af0b06d6b3a1b8bf004bd229db",
-        "sha512": "c45862f037dbb37f6ab61d503c53def97e153c93013e4db5ad2abeb7a9c6932d5ce2cdb10ad7b229505e288f2767b89edfc5e703eded4515c9663e37b9f21781"
+        "sha1": "7dfe3dc14f3a467e37ca8a2e64038fd6379b1988",
+        "sha512": "58355044261db8e0483037bc42c8661b1487d6077e49d0b2dd5183001977174d1dd23d60761ba1f2dcd746228fb665277ca179bc4dc0f5af8175939a097851c6"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7270/566/createbicbit-forge-1.21.1-1.0.2B.jar",
-        "https://edge.forgecdn.net/files/7270/566/createbicbit-forge-1.21.1-1.0.2B.jar",
-        "https://cdn.modrinth.com/data/16DuAG4k/versions/549nOFOk/createbicbit-forge-1.21.1-1.0.2B.jar"
+        "https://mediafilez.forgecdn.net/files/7952/693/create_bic_bit-1.0.2C.jar",
+        "https://edge.forgecdn.net/files/7952/693/create_bic_bit-1.0.2C.jar",
+        "https://cdn.modrinth.com/data/16DuAG4k/versions/15wUZ9Rw/create_bic_bit-1.0.2C.jar"
       ],
-      "fileSize": 396273
+      "fileSize": 395943
     },
     {
       "path": "mods/[A][机械动力：流光溢彩] createprism-1.1.3.jar",
@@ -788,17 +791,17 @@
       "fileSize": 128144
     },
     {
-      "path": "mods/[A][机械动力：龙+] create-dragons-plus-1.8.7.jar",
+      "path": "mods/[A][机械动力：龙+] CreateDragonsPlus-1.8.8.jar",
       "hashes": {
-        "sha1": "3e53b26e850f9d2a995868b0d7c012ba8e9d373b",
-        "sha512": "b7b343c53c0f6ae307e2bf596515f93f337ebbed8e449b930e87e5b9e72be495afa620b83507bb0e59bf30d60be0b0a7716d2be8319cff42bf7e0a253779b0a3"
+        "sha1": "255366b21ce81859a574a6f2f2ae514022d96780",
+        "sha512": "d25e51c01b668e4e3b2188ad8b3b1a0adc2340dcdc53eea004c9c55ff4927ed73a06b9ec90dcb758b97ec8afb6945b6e3af8a5656afeeb236355bd8fb41bf212"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7653/475/create-dragons-plus-1.8.7.jar",
-        "https://edge.forgecdn.net/files/7653/475/create-dragons-plus-1.8.7.jar",
-        "https://cdn.modrinth.com/data/dzb1a5WV/versions/C1pFgdCC/create-dragons-plus-1.8.7.jar"
+        "https://mediafilez.forgecdn.net/files/7948/992/CreateDragonsPlus-1.8.8.jar",
+        "https://edge.forgecdn.net/files/7948/992/CreateDragonsPlus-1.8.8.jar",
+        "https://cdn.modrinth.com/data/dzb1a5WV/versions/hizq1Gct/CreateDragonsPlus-1.8.8.jar"
       ],
-      "fileSize": 644935
+      "fileSize": 649807
     },
     {
       "path": "mods/[A][森罗物语：下界] kaleidoscope_nether-1.0.7-neoforge+mc1.21.1.jar",
@@ -1193,6 +1196,20 @@
         "https://edge.forgecdn.net/files/6926/815/catalogue-neoforge-1.21.1-1.11.2.jar"
       ],
       "fileSize": 302750
+    },
+    {
+      "path": "mods/[C][物品栏排序-八角] anisum-neoforge-1.21.1-0.0.1+build.16.jar",
+      "hashes": {
+        "sha1": "1d94950ff30da5631a803998e61486a6e7066d9e",
+        "sha512": "e4a8fa82a7e5dbf2ea7d951f889e9de81a2312148729ca36d2491d372127ffbcff13cb57e091fabce28342ec441007f32d18393df9e52da74ff81775208a0d24"
+      },
+      "env": {
+        "client": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/KikOIfnh/versions/46CKVZD8/anisum-neoforge-1.21.1-0.0.1%2Bbuild.16.jar"
+      ],
+      "fileSize": 107432
     },
     {
       "path": "mods/[C][物品模型修复] modelfix-1.21-1.10.jar",

@@ -164,7 +164,6 @@ key_key.ftbultimine:key.mouse.4
 key_ftbultimine.change_shape.next:key.keyboard.up
 key_ftbultimine.change_shape.prev:key.keyboard.down
 key_key.ftbteams.open_gui:key.keyboard.unknown
-key_key.ftbquests.quests:key.keyboard.grave.accent
 key_key.jetpack.toggle_active.description:key.keyboard.g
 key_key.jetpack.toggle_hover.description:key.keyboard.h
 key_cmpackagecouriers.keyinfo.open_portable_stock_ticker:key.keyboard.unknown

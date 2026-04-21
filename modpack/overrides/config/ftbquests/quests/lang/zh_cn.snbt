@@ -57,7 +57,7 @@
 		"还可以查看原版的&e进度系统&r，查看机械动力官方制作的科技树"
 	]
 	quest.15729F5DE8C6CE57.quest_desc: [
-		"{image:quests:textures/pic/work_block.png width:150 height:100 align:center}"
+		"{image:gugle:textures/pic/work_block.png width:150 height:100 align:center}"
 		""
 		"工作方块的工作速度和收到的&d转速&r相关，且消耗的&d应力&r和&d转速&r成正比"
 		""
@@ -279,7 +279,7 @@
 		"&eX+C&r 进行配置"
 	]
 	quest.5723777466E08E16.quest_desc: [
-		"{image:quests:textures/pic/windmill.png width:120 height:100 align:center}"
+		"{image:gugle:textures/pic/windmill.png width:120 height:100 align:center}"
 		""
 		"&a风车轴承&r需要8个&d风帆方块&r才能启动，可以使用羊毛，风帆，风帆框架。"
 		""
@@ -403,7 +403,7 @@
 	]
 	quest.719AE5E2C4034F5E.quest_desc: [
 		""
-		"{image:quests:textures/pic/water_wheel.png width:100 height:100 align:center}"
+		"{image:gugle:textures/pic/water_wheel.png width:100 height:100 align:center}"
 		""
 		"水车需要流动水才能工作"
 		""

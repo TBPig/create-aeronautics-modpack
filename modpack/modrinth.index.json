@@ -946,6 +946,18 @@
       "fileSize": 725742
     },
     {
+      "path": "mods/[A][机械动力：线控驾驶] drivebywire-0.2.3.jar",
+      "hashes": {
+        "sha1": "b0a928e2f616d234268af11ace2a369ee3157fe6",
+        "sha512": "609c37940e56664bb0490989402e4fa1ffe51f5618f63c15ebaf11efae0380489bc4ff90d2cdf8a567643910fc3eb5a6d87445f9bac41a1412b34c7259519d78"
+      },
+      "downloads": [
+        "https://mediafilez.forgecdn.net/files/7960/229/drivebywire-0.2.3.jar",
+        "https://edge.forgecdn.net/files/7960/229/drivebywire-0.2.3.jar"
+      ],
+      "fileSize": 235487
+    },
+    {
       "path": "mods/[A][生活调味料：胡萝卜版] solcarrot-1.21.1-1.16.6.jar",
       "hashes": {
         "sha1": "32e9bbe18ae1f2f7f672ce08af51ec1928599182",

@@ -1,7 +1,7 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "1.5.2",
+  "versionId": "6.0.0",
   "name": "机械动力航空学整合包",
   "summary": "机械动力航空学整合包-内置汉化",
   "files": [
@@ -263,17 +263,17 @@
       "fileSize": 1538356
     },
     {
-      "path": "mods/[A][前置] lithostitched-1.6.8-neoforge-21.1.jar",
+      "path": "mods/[A][前置] lithostitched-1.7.0-neoforge-21.1.jar",
       "hashes": {
-        "sha1": "0a332da63a3b63ca9b8f0f11a3e882b232b7d64d",
-        "sha512": "e8a0642933d00bf8963c98ba40f9229def301f8c52e7b773f583510a04ed5c4041d80cc0f820b24038c9a073ffeff4542261e3f1265e07ff9e3af4c5fe6f34c9"
+        "sha1": "af79e2bdd58ecd0fd47bbc6667da1b8e345d224c",
+        "sha512": "2e23f7bc0265231820fdd633ff10a3e62fee32ad4d281e11df3125a29a498a754bf9f47c935e925c4d404a6232d31fcd31ab0f059669196e1035d6ac6a5c9656"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7938/779/lithostitched-1.6.8-neoforge-21.1.jar",
-        "https://edge.forgecdn.net/files/7938/779/lithostitched-1.6.8-neoforge-21.1.jar",
-        "https://cdn.modrinth.com/data/XaDC71GB/versions/nWAodGqn/lithostitched-1.6.8-neoforge-21.1.jar"
+        "https://mediafilez.forgecdn.net/files/7964/237/lithostitched-1.7.0-neoforge-21.1.jar",
+        "https://edge.forgecdn.net/files/7964/237/lithostitched-1.7.0-neoforge-21.1.jar",
+        "https://cdn.modrinth.com/data/XaDC71GB/versions/29zrKXCQ/lithostitched-1.7.0-neoforge-21.1.jar"
       ],
-      "fileSize": 808010
+      "fileSize": 810138
     },
     {
       "path": "mods/[A][前置] mechanicals-1.21.1-1.1.0.jar",
@@ -379,17 +379,15 @@
       "fileSize": 111839
     },
     {
-      "path": "mods/[A][机械动力] create-1.21.1-6.0.9.jar",
+      "path": "mods/[A][机械动力] create-1.21.1-6.0.10.jar",
       "hashes": {
-        "sha1": "bf08bf8980c080f42d6f644f4f44a725cf7c3be9",
-        "sha512": "8b3b3d9b6874f31a538add81390dff26b5f9475da6349dc52fc20dbde802edfc32ead511e12291198591574d42605f916f1acbadc2437056eea615d8586bf7cf"
+        "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
+        "sha512": "11cc8fc049d2f67f6548c7abfada6b82a3adb5c7ca410a742de04bbca76e03862c518721b88d806f6e6d768a4d68531fdb903a85859b25d1484d550cc7bafd4b"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7408/951/create-1.21.1-6.0.9.jar",
-        "https://edge.forgecdn.net/files/7408/951/create-1.21.1-6.0.9.jar",
-        "https://cdn.modrinth.com/data/LNytGWDc/versions/n7NADxiG/create-1.21.1-6.0.9.jar"
+        "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar"
       ],
-      "fileSize": 19019888
+      "fileSize": 19123767
     },
     {
       "path": "mods/[A][机械动力：Bits 'n' Bobs] bits_n_bobs-0.0.44.jar",
@@ -791,30 +789,28 @@
       "fileSize": 517830
     },
     {
-      "path": "mods/[A][机械动力：自定义扳手] create-extended-wrenches-1.21.1-2.0.1.jar",
+      "path": "mods/[A][机械动力：自定义扳手] create-extended-wrenches-1.21.1-2.0.2.jar",
       "hashes": {
-        "sha1": "24b8bdd2e1ae864bbf80667b70b636a87e3707de",
-        "sha512": "7aa1d515b3841a7d8eacf753500576c3322126758f76478ccd692ac7e8b40753122d247609c034f17e4ac1a37c6aedc57d51acfbe5c546154051ae5d629b4d37"
+        "sha1": "fbb77bc688c8ec0d9d2bccb6e6e31b0b8600a927",
+        "sha512": "dfd0f7e343bf5232a43eea440ff0734db80ca011121d461b22a9247e46a9a3377a2fe0f78cfb84986e92ce4b9f3ccc7c630d452396ce9c615d741e21c6e9e4c3"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7409/498/create-extended-wrenches-1.21.1-2.0.1.jar",
-        "https://edge.forgecdn.net/files/7409/498/create-extended-wrenches-1.21.1-2.0.1.jar",
-        "https://cdn.modrinth.com/data/WNRCHiE5/versions/BM3Pr9Mj/create-extended-wrenches-1.21.1-2.0.1.jar"
+        "https://cdn.modrinth.com/data/WNRCHiE5/versions/g0PyoRas/create-extended-wrenches-1.21.1-2.0.2.jar"
       ],
       "fileSize": 401219
     },
     {
-      "path": "mods/[A][机械动力：赛博护目镜] CreateCyberGoggles-1.21.1-7.5.1-NeoForge.jar",
+      "path": "mods/[A][机械动力：赛博护目镜] CreateCyberGoggles-1.21.1-7.5.2-NeoForge.jar",
       "hashes": {
-        "sha1": "4b48f33a6d7eaf33e68308078f9666d600c42c6d",
-        "sha512": "11bb5bc49af7a61361746674e5cfd0f6a95bde58b08804996cfd170d060bdfbf713a7a2bc674621686ec18223033f95d81f4fd7d841e0108e6caa2aed2c06ff3"
+        "sha1": "3496428d5ef0ec342fb03e50a61ccd6461cb642d",
+        "sha512": "fe56e53eb2cdfb91c00192c333d3ab096f324db02742cc25e8df86afa1461b42807367318677670392ff85c5d5f6f0f530f49baed2ec05fdb8d0ae1cb5dfba05"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7956/323/CreateCyberGoggles-1.21.1-7.5.1-NeoForge.jar",
-        "https://edge.forgecdn.net/files/7956/323/CreateCyberGoggles-1.21.1-7.5.1-NeoForge.jar",
-        "https://cdn.modrinth.com/data/TlQAWQCY/versions/jB8NJoP8/CreateCyberGoggles-1.21.1-7.5.1-NeoForge.jar"
+        "https://mediafilez.forgecdn.net/files/7961/482/CreateCyberGoggles-1.21.1-7.5.2-NeoForge.jar",
+        "https://edge.forgecdn.net/files/7961/482/CreateCyberGoggles-1.21.1-7.5.2-NeoForge.jar",
+        "https://cdn.modrinth.com/data/TlQAWQCY/versions/D0n3h8fj/CreateCyberGoggles-1.21.1-7.5.2-NeoForge.jar"
       ],
-      "fileSize": 439453
+      "fileSize": 444685
     },
     {
       "path": "mods/[A][机械动力：超级管道] create_hypertube-0.4.0-COMPAT-NEOFORGE.jar",
@@ -856,17 +852,17 @@
       "fileSize": 408059
     },
     {
-      "path": "mods/[A][机械动力：齿轮与酒馆] creategearsandtavern-1.1.0.jar",
+      "path": "mods/[A][机械动力：齿轮与酒馆] creategearsandtavern-1.1.1.jar",
       "hashes": {
-        "sha1": "077ee24efe5789220d7399cf268ddbf4344810cf",
-        "sha512": "d934d0100ac0afe252339dd8a8570f49deb068528510a64e157ba0a1b072fd58258bed7ea3f58ac3c8fb3a9a4c68ee6eac319da8e70990c9d05e3406836af7af"
+        "sha1": "06f27bd0682da6361198121e53a32f2e841399d3",
+        "sha512": "7e4453fc43eb805f10cdc4fd1dab9efb34ac0adf2b20470b88741f627a7e62a29b87191378c9bdd81eabf4ec9592c5f0ddce4ccdb7df3137e1ab2a978e70262b"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7939/876/creategearsandtavern-1.1.0.jar",
-        "https://edge.forgecdn.net/files/7939/876/creategearsandtavern-1.1.0.jar",
-        "https://cdn.modrinth.com/data/ZjAeukl9/versions/QPAIc6XK/creategearsandtavern-1.1.0.jar"
+        "https://mediafilez.forgecdn.net/files/7965/64/creategearsandtavern-1.1.1.jar",
+        "https://edge.forgecdn.net/files/7965/64/creategearsandtavern-1.1.1.jar",
+        "https://cdn.modrinth.com/data/ZjAeukl9/versions/228gCuUl/creategearsandtavern-1.1.1.jar"
       ],
-      "fileSize": 128144
+      "fileSize": 128133
     },
     {
       "path": "mods/[A][机械动力：齿轮与麦穗] create_ratatouille-1.21.1-1.3.9.jar",
@@ -882,17 +878,15 @@
       "fileSize": 917002
     },
     {
-      "path": "mods/[A][机械动力：龙+] CreateDragonsPlus-1.9.1.jar",
+      "path": "mods/[A][机械动力：龙+] CreateDragonsPlus-1.9.2.jar",
       "hashes": {
-        "sha1": "9ac0a1936689a456cb0c4fb9ff242cb24a029ba2",
-        "sha512": "639406b74d0dd3648751b20f15f06b14d07ed7cb379b3616002e130647d6745466433cbfb5b341c8767003ffa21b606a5f2da975713077b4a6ab3f852bd2311f"
+        "sha1": "0dd3d5e00e5346902480aa8ec588ed27081fdaa1",
+        "sha512": "d36758c6cc86b01234f75fd263ca850beea31fa50f9868ef0b08855c49a9d9f00491ab243997efc77dc5b07c199e07319e9ead1a2f80490a4ef614a1f786de44"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7957/81/CreateDragonsPlus-1.9.1.jar",
-        "https://edge.forgecdn.net/files/7957/81/CreateDragonsPlus-1.9.1.jar",
-        "https://cdn.modrinth.com/data/dzb1a5WV/versions/NcKneuv8/CreateDragonsPlus-1.9.1.jar"
+        "https://cdn.modrinth.com/data/dzb1a5WV/versions/cBUCWZt8/CreateDragonsPlus-1.9.2.jar"
       ],
-      "fileSize": 685918
+      "fileSize": 740594
     },
     {
       "path": "mods/[A][森罗物语：下界] kaleidoscope_nether-1.0.7-neoforge+mc1.21.1.jar",
@@ -1127,17 +1121,17 @@
       "fileSize": 1314767
     },
     {
-      "path": "mods/[C][Masa全家桶 · 孤独HUD] bocchud-0.4.0+mc1.21.1.jar",
+      "path": "mods/[C][Masa全家桶 · 孤独HUD] bocchud-0.4.1+mc1.21.1.jar",
       "hashes": {
-        "sha1": "21492c06d7eabb9ee5146fdcce9160c202d62563",
-        "sha512": "52099e4c4f71967cb947215887d9eb91bfe7dd26a77882494c3e39bcf648ff9d8e6074a509e1a334ffd1f26d58d505840903be727c925350777aef02c79fc387"
+        "sha1": "2191c8a8a763e1d22af78226a4027ac5c3676a5e",
+        "sha512": "1fa17cb3b01bb205f38b42c10c30ac5d941d8bd4630e03ce89467fded748086434229ac715ce2258bb4033140547cb678d53f5a2082875026bfaff4b12250e16"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7060/185/bocchud-0.4.0%2bmc1.21.1.jar",
-        "https://edge.forgecdn.net/files/7060/185/bocchud-0.4.0%2bmc1.21.1.jar",
-        "https://cdn.modrinth.com/data/zfPoD7Tm/versions/b9OUONUG/bocchud-0.4.0%2Bmc1.21.1.jar"
+        "https://mediafilez.forgecdn.net/files/7965/440/bocchud-0.4.1%2bmc1.21.1.jar",
+        "https://edge.forgecdn.net/files/7965/440/bocchud-0.4.1%2bmc1.21.1.jar",
+        "https://cdn.modrinth.com/data/zfPoD7Tm/versions/tOP74nwE/bocchud-0.4.1%2Bmc1.21.1.jar"
       ],
-      "fileSize": 690510
+      "fileSize": 921351
     },
     {
       "path": "mods/[C][Masa全家桶 · 工具包] tweakerge-0.4.1+mc1.21.1.jar",
@@ -1719,7 +1713,7 @@
       "fileSize": 3737845
     },
     {
-      "path": "mods/[A][农夫乐事 · 妖怪们的归家] youkaishomecoming-3.0.8.jar.disabled",
+      "path": "mods/[A][农夫乐事 · 妖怪们的归家] youkaishomecoming-3.0.8.jar",
       "hashes": {
         "sha1": "e25288594f06e43fead8002839fb561efee6565e",
         "sha512": "80bf4859a5c1d0b9f9f88efb6db0b261c8b6fd47a84185c3d3457a7c1d45a74686354810a4ef6aefadd22666dc4a8ffe629ae34812f98b051554dc2fe098cf95"
@@ -1763,28 +1757,26 @@
       "fileSize": 3264862
     },
     {
-      "path": "mods/[A][机械动力：航空学] create-aeronautics-bundled-1.21.1-1.0.3.jar",
+      "path": "mods/[A][机械动力：航空学] create-aeronautics-bundled-1.21.1-1.1.3.jar",
       "hashes": {
-        "sha1": "704aa5293585b58caceedcb4fa57db628db2329a",
-        "sha512": "3d7ef0e79b366567f2d5718806df16c8cb960b3ec0450c313b596b7262871d5b3f4f0635c8bce914b74908b5682c34235ada92792b1e288715aec7525193fb04"
+        "sha1": "320d5c580462fb4bdec3d99837f16e842c314ff6",
+        "sha512": "94831bc4702b3864524258fa0a73a50ab3cd37e9c157b5c6688a6845b866ec5838452804050b55e490549d91dad909fc37f0d619f354c5676e2e2651b9c15ec6"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/oWaK0Q19/versions/FIeWE7UC/create-aeronautics-bundled-1.21.1-1.0.3.jar"
+        "https://cdn.modrinth.com/data/oWaK0Q19/versions/1sv6OtSz/create-aeronautics-bundled-1.21.1-1.1.3.jar"
       ],
-      "fileSize": 32945368
+      "fileSize": 33003314
     },
     {
-      "path": "mods/[A][机械动力：航空学前置] sable-neoforge-1.21.1-1.0.6.jar",
+      "path": "mods/[A][机械动力：航空学前置] sable-neoforge-1.21.1-1.1.3.jar",
       "hashes": {
-        "sha1": "33c304774142816cb8f0140f34650d347adbcd6b",
-        "sha512": "5b732e8b808b9e97ddc61375e849a86298b9ba5b1c81c576faf9b96667cd27e83fcc2e881af69fded28d1038b8c0f4ddb13ad6b3c1a34a2f1d688061ee6c5d19"
+        "sha1": "98b491efe417046ced3fc4b2e45f603b5007c972",
+        "sha512": "8180e214681c171c9e3b7fa307f7a92bd7de0b8125d671291425f04a4ba26b408758d8ea80a6386d8e73bb1e6b02caf3f20afb9b91ecedd48c37ed44363ac961"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/7948/753/sable-neoforge-1.21.1-1.0.6.jar",
-        "https://edge.forgecdn.net/files/7948/753/sable-neoforge-1.21.1-1.0.6.jar",
-        "https://cdn.modrinth.com/data/T9PomCSv/versions/ZYLSN31S/sable-neoforge-1.21.1-1.0.6.jar"
+        "https://cdn.modrinth.com/data/T9PomCSv/versions/g8CObHcP/sable-neoforge-1.21.1-1.1.3.jar"
       ],
-      "fileSize": 24729558
+      "fileSize": 24766579
     },
     {
       "path": "mods/[A][机械动力：装饰] createdeco-2.1.2.jar",
@@ -1809,15 +1801,15 @@
       "fileSize": 860443
     },
     {
-      "path": "mods/[A][精妙存储] sophisticatedstorage-1.21.1-1.5.38.1637.jar",
+      "path": "mods/[A][精妙存储] sophisticatedstorage-1.21.1-1.5.39.1644.jar",
       "hashes": {
-        "sha1": "9c27326ee2b6b2b75acf6239941cea39fd7ebf74",
-        "sha512": "b0e71152a0b822b4e63c9a8deaef27e53b3c39bb237b6f3c06339f0bf3ad40e3a7368f4d50782eefad76a53e33c27c17ebdf7f65d70ad4d0e2ba4b96547cfe01"
+        "sha1": "80fb41830d8922e6ac8b948c113b96b032e82adf",
+        "sha512": "1ee47d7807e9cb131bb9dba42a9fce2d239862baf3bbef4a68ef8e71dc1e8f0cd1c8c27cc1c02cea733e17a91db5f62a6b7177611096b3eac578ca218728c944"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/hMlaZH8f/versions/h150uPq6/sophisticatedstorage-1.21.1-1.5.38.1637.jar"
+        "https://cdn.modrinth.com/data/hMlaZH8f/versions/MXXD8bZI/sophisticatedstorage-1.21.1-1.5.39.1644.jar"
       ],
-      "fileSize": 1667034
+      "fileSize": 1667457
     },
     {
       "path": "mods/[A][精妙核心] sophisticatedcore-1.21.1-1.4.25.1696.jar",
